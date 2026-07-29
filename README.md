@@ -36,6 +36,10 @@ I joined Strangeworks as a **Quantum Algorithm Scientist** in 2022 and progresse
 
 ## Featured QEC & fault-tolerant work
 
+[![Quantum Playground — quantum error correction, simulation and compilation](https://raw.githubusercontent.com/SFlann/Quantum-Playground/main/assets/social-preview.png)](https://github.com/SFlann/Quantum-Playground)
+
+**[Quantum Playground](https://github.com/SFlann/Quantum-Playground)** — checked learning notebooks spanning surface-code QEC, tensor-network simulation, decoding, quantum algorithms, and fault-tolerant resource estimation.
+
 My [Quantum Playground](https://github.com/SFlann/Quantum-Playground) is a working laboratory of executable notebooks and supporting modules. The QEC collection progresses from individual logical qubits to decoding, lattice surgery, noise modelling, compilation, and application-level resource studies.
 
 | Area | Selected work |

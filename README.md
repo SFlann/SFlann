@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/"><img alt="Personal portfolio" src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/"><img alt="Professional" src="https://img.shields.io/badge/Website-Professional-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="https://github.com/SFlann/Quantum-Playground/tree/main/Playground/Surface-Codes/Itensor"><img alt="QEC portfolio" src="https://img.shields.io/badge/QEC-Portfolio-6f42c1?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=nRFkgkIAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
   <a href="https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/"><img alt="AWS Quantum Technologies Blog" src="https://img.shields.io/badge/AWS-Quantum_article-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"></a>
-  <a href="https://resources.wolframcloud.com/PacletRepository/resources/Strangeworks/Strangeworks/"><img alt="Wolfram Language paclet" src="https://img.shields.io/badge/Wolfram-Paclet-DD1100?style=flat-square&amp;logo=wolframmathematica&amp;logoColor=white"></a>
   <a href="https://www.linkedin.com/in/stuart-flannigan-03ab7722a/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
 </p>
 

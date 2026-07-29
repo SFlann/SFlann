@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/"><img alt="Personal portfolio" src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="https://github.com/SFlann/Quantum-Playground/tree/main/Playground/Surface-Codes/Itensor"><img alt="QEC portfolio" src="https://img.shields.io/badge/QEC-Portfolio-6f42c1?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=nRFkgkIAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
   <a href="https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/"><img alt="AWS Quantum Technologies Blog" src="https://img.shields.io/badge/AWS-Quantum_article-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"></a>
@@ -65,4 +66,4 @@ My [Quantum Playground](https://github.com/SFlann/Quantum-Playground) is a worki
 
 ## Let's connect
 
-I am especially interested in QEC/FTQC software, resource estimation, logical-architecture simulation, compilers, decoders, and scientific developer tooling. You can find me on [LinkedIn](https://www.linkedin.com/in/stuart-flannigan-03ab7722a/).
+I am especially interested in QEC/FTQC software, resource estimation, logical-architecture simulation, compilers, decoders, and scientific developer tooling. Explore my [personal website](https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/) or connect with me on [LinkedIn](https://www.linkedin.com/in/stuart-flannigan-03ab7722a/).

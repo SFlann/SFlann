@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/"><img alt="Professional" src="https://img.shields.io/badge/Website-Professional-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://github.com/SFlann/qec-canvas"><img alt="qec-canvas Python package" src="https://img.shields.io/badge/QEC-qec--canvas-65dbc8?style=flat-square"></a>
   <a href="https://github.com/SFlann/Quantum-Playground/tree/main/Playground/Surface-Codes/Itensor"><img alt="QEC portfolio" src="https://img.shields.io/badge/QEC-Portfolio-6f42c1?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=nRFkgkIAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
   <a href="https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/"><img alt="AWS Quantum Technologies Blog" src="https://img.shields.io/badge/AWS-Quantum_article-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"></a>
@@ -35,11 +36,35 @@ I joined Strangeworks as a **Quantum Algorithm Scientist** in 2022 and progresse
 
 ## Featured QEC & fault-tolerant work
 
-[![Quantum Playground — quantum error correction, simulation and compilation](https://raw.githubusercontent.com/SFlann/Quantum-Playground/main/assets/social-preview.png)](https://github.com/SFlann/Quantum-Playground)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SFlann/qec-canvas">
+        <img alt="qec-canvas — explainable quantum error correction" src="https://raw.githubusercontent.com/SFlann/qec-canvas/main/docs/images/social-preview.png">
+      </a>
+      <br>
+      <strong><a href="https://github.com/SFlann/qec-canvas">qec-canvas</a></strong> — a typed, tested Python package for defining small stabilizer codes, running reproducible memory experiments, and inspecting batch or sliding-window decoder decisions.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SFlann/Quantum-Playground">
+        <img alt="Quantum Playground — quantum error correction, simulation and compilation" src="https://raw.githubusercontent.com/SFlann/Quantum-Playground/main/assets/social-preview.png">
+      </a>
+      <br>
+      <strong><a href="https://github.com/SFlann/Quantum-Playground">Quantum Playground</a></strong> — a checked notebook laboratory spanning surface-code QEC, tensor-network simulation, decoding, quantum algorithms, and fault-tolerant resource estimation.
+    </td>
+  </tr>
+</table>
 
-**[Quantum Playground](https://github.com/SFlann/Quantum-Playground)** — checked learning notebooks spanning surface-code QEC, tensor-network simulation, decoding, quantum algorithms, and fault-tolerant resource estimation.
+These projects serve different purposes. `qec-canvas` packages a focused QEC
+vertical slice behind backend-neutral domain models, documented public APIs,
+strict typing, continuous integration, and 100% statement and branch coverage.
+The [Quantum Playground](https://github.com/SFlann/Quantum-Playground) is the
+broader research and learning record from which ideas can be tested before they
+become stable software.
 
-My [Quantum Playground](https://github.com/SFlann/Quantum-Playground) is a working laboratory of executable notebooks and supporting modules. The QEC collection progresses from individual logical qubits to decoding, lattice surgery, noise modelling, compilation, and application-level resource studies.
+The Playground's QEC collection progresses from individual logical qubits to
+decoding, lattice surgery, noise modelling, compilation, and
+application-level resource studies.
 
 | Area | Selected work |
 | --- | --- |

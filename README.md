@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stuart Flannigan</h1>
 
 <p align="center">
-  <strong>Senior Quantum Software Engineer · Computational Physicist · QEC &amp; Fault-Tolerant Quantum Computing</strong>
+  <strong>Quantum Applications Lead · Computational Physicist · QEC &amp; Fault-Tolerant Quantum Computing</strong>
 </p>
 
 <p align="center">

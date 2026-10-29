@@ -26,7 +26,12 @@ I am now applying that experience to quantum error correction and fault-tolerant
 
 ## Current role at Commutator Studios
 
-I lead product direction at **Commutator Studios**, shaping the vision, roadmap, and priorities for our products. My role connects technical strategy with user needs, guiding ideas from early exploration through to delivery.
+As **Quantum Applications Lead** at **Commutator Studios**, I lead product direction, shaping the vision, roadmap, and priorities for our products. My work connects scientific research, software development, and practical user needs.
+
+- **Product strategy:** Translate application opportunities and user needs into scoped capabilities, balancing potential value, technical feasibility, and delivery effort.
+- **Application discovery:** Frame real-world problems as testable quantum-computing studies, identifying useful baselines, constraints, and criteria for success.
+- **Scientific evaluation:** Assess emerging methods and research for their practical relevance, using evidence and technical trade-offs to inform what we build next.
+- **Cross-functional collaboration:** Work with scientific, engineering, and commercial colleagues to align priorities and delivery, and communicate capabilities clearly to technical and non-technical audiences.
 
 ## Experience at Strangeworks
 

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/"><img alt="Professional" src="https://img.shields.io/badge/Website-Professional-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://stuartflannigan.dev/"><img alt="Professional" src="https://img.shields.io/badge/Website-Professional-14B8A6?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="https://github.com/SFlann/qec-canvas"><img alt="qec-canvas Python package" src="https://img.shields.io/badge/QEC-qec--canvas-65dbc8?style=flat-square"></a>
   <a href="https://github.com/SFlann/Quantum-Playground/tree/main/Playground/Surface-Codes/Itensor"><img alt="QEC portfolio" src="https://img.shields.io/badge/QEC-Portfolio-6f42c1?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=nRFkgkIAAAAJ&amp;hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"></a>
@@ -23,6 +23,10 @@ I am now applying that experience to quantum error correction and fault-tolerant
 - **Fault-tolerant workflows:** mapping application problems towards logical circuits, Clifford+T compilation, Pauli-based computation, and physical-resource questions.
 - **Quantum software:** production Python services and SDKs, provider integrations, asynchronous job systems, testing, CI/CD, and cloud deployment.
 - **Computational physics:** tensor networks, open quantum systems, strongly correlated models, error propagation, and hardware-aware simulation.
+
+## Current role at Commutator Studios
+
+I lead product direction at **Commutator Studios**, shaping the vision, roadmap, and priorities for our products. My role connects technical strategy with user needs, guiding ideas from early exploration through to delivery.
 
 ## Experience at Strangeworks
 
@@ -94,4 +98,4 @@ application-level resource studies.
 
 ## Let's connect
 
-I am especially interested in QEC/FTQC software, resource estimation, logical-architecture simulation, compilers, decoders, and scientific developer tooling. Explore my [personal website](https://stuart-flannigan-portfolio.stuart-flannigan.chatgpt.site/) or connect with me on [LinkedIn](https://www.linkedin.com/in/stuart-flannigan-03ab7722a/).
+I am especially interested in QEC/FTQC software, resource estimation, logical-architecture simulation, compilers, decoders, and scientific developer tooling. Explore my [personal website](https://stuartflannigan.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/stuart-flannigan-03ab7722a/).
